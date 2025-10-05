@@ -1,4 +1,4 @@
 export const environment = {
   production: false,
-  apiBaseUrl: 'https://ecommerce-one-liart-92.vercel.app/'
+  apiBaseUrl: 'http://ec2-54-174-191-177.compute-1.amazonaws.com:3000'
 };
